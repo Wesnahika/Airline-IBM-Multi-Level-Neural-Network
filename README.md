@@ -1,1 +1,1 @@
-# Airline-IBM-Multi-Level-Neural-Network
+# Gemstone Image Classifier using CNNs 
